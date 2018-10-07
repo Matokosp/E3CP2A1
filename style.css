@@ -1,0 +1,206 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	padding: 0 15vw;
+	background-color: #e6e7e8;
+}
+
+h1 {
+	text-transform: uppercase;
+	margin: 0;
+}
+
+h2 {
+	text-transform: uppercase;
+	color: #f15a29;
+	margin: 0;
+}
+
+
+
+
+header {
+	text-align: center;
+	position: relative;
+	background-color: #fff;
+	padding: 5vh 0 0 0;
+	text-align: center;
+	z-index: 1;
+}
+
+header img {
+	z-index: 1;
+}
+
+.grey-block {
+	background-color: #e6e7e8;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 10vh;
+	z-index: -1;
+}
+
+.separation {
+	display: inline-block;
+	width: 90%;
+	background-color: #e6e7e8;
+	height: 5px;
+	margin-top: 25px;
+}
+
+.content {
+    background-color: #fff;
+	position: relative;
+	margin-bottom: 10vh;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.grey-block {
+	background-color: #e6e7e8;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 10vh;
+}
+
+.orange {
+	color: #f15a29;
+}
+
+
+
+.left-info {
+	width: 60%;
+	padding: 20px 30px;
+	box-sizing: border-box;
+	float: left;
+}
+
+.right-info {
+	width: 40%;
+	float: left;
+	padding: 20px 30px;
+	box-sizing: border-box;
+}
+
+.educacion {
+	margin: 30px 0;
+}
+
+.educacion-sect {
+	margin: 20px 0;
+}
+
+.year {
+	width: 10%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.educacion-content {
+	width: 89%;
+	display: inline-block;
+	background-color: #e6e7e8;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin: 0px 0;
+}
+
+.experiencia {
+	margin: 30px 0;
+}
+
+.experiencia-sect {
+
+}
+
+.place {
+	width: 20%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.place h3 {
+	margin-bottom: 2px;
+}
+
+.place h5 {
+	margin: 0;
+	color: #a7a9ac;
+}
+
+.experiencia-text {
+	width: 79%;
+	display: inline-block;
+}
+
+.skills {
+	margin: 20px 0;
+}
+
+
+.skills h3 {
+	font-size: 1.05em;
+	color: #fff;
+	background-color: #f15a29;
+	padding: 4px 0 4px 10px;
+	margin: 8px 0;
+}
+
+.python {
+	width: 20%;
+}
+
+.html {
+	width: 90%;
+}
+
+.css {
+	width: 70%;
+}
+
+.js {
+	width: 30%;
+}
+
+.php {
+	width: 20%;
+}
+
+.idioma-item {
+	margin: 20px 0;
+	height: 30px;
+	border-bottom: solid 2px #e6e7e8;
+	position: relative;
+}
+
+.idioma-item p {
+	display: inline-block;
+	margin: 0;
+}
+
+.idioma-item img {
+	width: 20px;
+	text-align: right;
+}
+
+.idioma-item span {
+	position: absolute;
+	right: 0px;
+}
+
+.hobby h4 {
+	display: inline-block;
+	color: #fff;
+	background-color: #b3526b;
+	padding: 5px 10px;
+}
