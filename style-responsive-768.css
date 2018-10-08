@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+body {
+	padding: 0 8vw;
+}
+
+h1 {
+	font-size: 1.7em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
+li {
+	font-size: 0.9em;
+}
+}

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@media (min-width: 300px) and (max-width: 767px) {
+
+body {
+	padding: 0 10px;
+	font-size: 12px;
+}
+
+header {
+	padding: 5vh 5px;
+}
+
+header img {
+	width: 150px;
+}
+
+.left-info {
+	clear: both;
+	width: 100%;
+	text-align: center;
+}
+
+.place h3 {
+	font-weight: 900;
+	font-size: 1.3em;
+}
+
+.right-info {
+	clear: both;
+	width: 100%;
+	text-align: center;
+}
+
+.left {
+	text-align: left;
+}
+
+.skills h3 {
+	text-align: left;
+}
+
